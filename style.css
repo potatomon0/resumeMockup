@@ -1,0 +1,92 @@
+.navbar{
+    border:solid red;
+    background-color: lightslategray;
+    height:22vh;
+    margin:25px;
+}
+.name{
+    border:solid yellow;
+    background-color: white;
+    font-size:40px;
+    text-align:center;
+    margin:60px;
+    margin-left:150px;
+    margin-right:150px;
+}
+.title{
+    font-size:25px;
+}
+.introContainer{
+    border:solid blue;
+    height:22vh;
+    margin:25px;
+    display:flex;
+    justify-content: space-evenly;
+    padding:4px;
+}
+.profileContainer{
+    text-align:center;
+}
+#profileText{
+    text-align:left;
+}
+.profilePic{
+    height:100%;
+    width:80%;
+    border-radius:100px;
+    margin-left:30px;
+}
+.skillsContainer{
+    border:solid pink;
+    height:22vh;
+    margin:25px;
+    display:flex;
+    justify-content: space-evenly;
+    padding:4px;
+}
+.xpContainer{
+    border:solid purple;
+    height:22vh;
+    margin:25px;
+    display:flex;
+}
+.profileContainer, .imgContainer, .contactContainer{
+    border:solid lightblue;
+    width:33%;
+}
+.eduContainer, .assetContainer, .industryContainer{
+    border:solid orange;
+    width:33%;
+}
+.left{
+    border:solid green;
+    width:70%;
+}
+.right{
+    border: solid purple;
+    width:30%;
+}
+.row{
+    border:solid pink;
+    border-width: 2px;
+    display:flex;
+}
+.text{
+    width:80%;
+    font-size:15px;
+}
+.Icon{
+    border:solid black;
+    BORDER-WIDTH:2px;
+    border-radius: 50%;
+    height:20px;
+    width:20px;
+}
+.kontainer{
+    border:solid black;
+    border-width:.2px;
+    margin-top:10%;
+}
+#top{
+    text-align:center;
+}
